@@ -1,4 +1,4 @@
-/*Criando um array apartir de um objeto*/ 
+/*Criando um array a partir de um objeto*/ 
 const quaseArray = {0: 'Rafael', 1: 'Ana', 2:'Bia'}
 console.log(quaseArray)
 
